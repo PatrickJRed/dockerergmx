@@ -12,7 +12,7 @@ assignees: ''
 A clear and concise description of what the image is or who would use it and how.
 
 **Dockerfile(s)**
-FROM %BASE%
+FROM %BASE%:%TAG%
 ....
 
 **structure and other files**
