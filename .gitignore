@@ -1,0 +1,9 @@
+# main
+*.passwd
+*.pw
+*.local
+
+# images
+*/*.local
+
+# build
