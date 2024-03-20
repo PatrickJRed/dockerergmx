@@ -22,8 +22,8 @@ public repository for docker images on https://hub.docker.com/u/dockerergmx
       from BASE > ACTIONS
 
 # TODO
-- [ ] setup my local machine to work with this repo
-- [ ] make folder structure locally
+- [x] setup my local machine to work with this repo
+- [x]? make folder structure locally (partially done)
 - [ ] create tor-alpine and load files from private repo
 - [ ] create ytdl and load files from private repo
 - [ ] setup build-tools/-scripts
